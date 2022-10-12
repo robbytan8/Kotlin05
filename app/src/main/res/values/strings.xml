@@ -1,0 +1,18 @@
+<resources>
+  <string name="app_name">Kotlin05</string>
+  <string name="label_gender">Gender</string>
+  <string name="text_male">Male</string>
+  <string name="text_female">Female</string>
+  <string name="text_name">Name</string>
+  <string name="label_hobbies">Hobbie(s)</string>
+  <string name="text_reading">Reading</string>
+  <string name="text_sport">Sport</string>
+  <string name="text_art">Art</string>
+  <string name="label_department">Department</string>
+  <string name="action_date">Select Date</string>
+  <string-array name="departments">
+    <item>Department 1</item>
+    <item>Department 2</item>
+    <item>Department 3</item>
+  </string-array>
+</resources>
